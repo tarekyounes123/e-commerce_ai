@@ -1,3 +1,4 @@
+
 import React, { useState } from 'react';
 import { Paper, Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Typography, Button, Box, TextField, Dialog, DialogActions, DialogContent, DialogTitle, IconButton, Chip, Select, MenuItem, FormControl, InputLabel } from '@mui/material';
 import EditIcon from '@mui/icons-material/Edit';
@@ -141,3 +142,8 @@ const AdminUsersPage = () => {
           <Button onClick={handleSubmit}>{editingUser ? 'Save Changes' : 'Add User'}</Button>
         </DialogActions>
       </Dialog>
+    </Paper>
+  );
+};
+
+export default AdminUsersPage;

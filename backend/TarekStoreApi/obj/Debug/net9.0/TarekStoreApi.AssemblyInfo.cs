@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TarekStoreApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2d68611680b18ecbfc7c6c42a9309aeedfaab94")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("TarekStoreApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TarekStoreApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
